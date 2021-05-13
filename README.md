@@ -1,1 +1,10 @@
-# JetBrain
+- Trọn bộ JetBrain và hướng dẫn Crack
+- Hướng dẫn Crack
+  - ở lần chạy đầu tiên, các bạn chọn Evaluate for free và nhấn và Evaluate
+  - Tại giao diện chính, bạn chọn vào Pycharm (Cái này tuỳ từng phần mềm cài) > Preferences
+  - Tại màn hình Preferences>chọn Plugins> nhấn vào icon bánh răng (mũi tên chỉ)> chọn Install Plugin from Disk...
+  - Tiếp theo chọn đến thư mục chứa file BetterIntelliJ-1.20.jar đã tải về và nhấn Nhấn Apply
+  - Vào menu Help-> “Edit Custom VM Options…” xem đã có dòng -javaagent:/User/path/BetterIntelliJ-1.20.jar nếu chưa có thì thêm bằng tay
+  - Khởi động lại PyCharm
+  - Vào menu Help -> Register
+  - Chọn Add new License > Activation Code, nhập vào code trong file key.txt
